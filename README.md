@@ -1,6 +1,6 @@
 # Adaptive-RAG-with-Yahoo-Finance-and-Web-Search-and-Tracing
 
-This project defines an adaptive Retrieval Augmented Generation (RAG) system using LangChain, LangSmith for tracing,  yfinance for stock information, and Tavily for web search. Let's break down the code section by section:
+This project defines an adaptive Retrieval Augmented Generation (RAG) system using LangChain, LangSmith for tracing,  yfinance for stock information, and Tavily for web search.
 
 # Flow:
 ![project_1](https://github.com/user-attachments/assets/a074ca20-4df1-45f6-8e95-c8bbbc16d517)
