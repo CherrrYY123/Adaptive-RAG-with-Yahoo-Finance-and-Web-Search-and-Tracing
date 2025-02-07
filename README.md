@@ -5,6 +5,16 @@ This project defines an adaptive Retrieval Augmented Generation (RAG) system usi
 # Flow:
 ![project_1](https://github.com/user-attachments/assets/a074ca20-4df1-45f6-8e95-c8bbbc16d517)
 
+# Query 1
+![project_2](https://github.com/user-attachments/assets/21900b24-7383-4a79-a558-6c88f884e103)
+
+# Query 2
+![project_3](https://github.com/user-attachments/assets/62c7ce4a-7815-46fc-ae5c-ce141a43de2c)
+
+# Query 3
+![project_4](https://github.com/user-attachments/assets/c6a37c94-3bf9-4091-ae63-97a10873452f)
+
+
 
 *1. Setup and Dependencies:*
 
